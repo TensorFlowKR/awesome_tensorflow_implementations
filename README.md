@@ -16,7 +16,7 @@
 * [[paper](http://arxiv.org/pdf/1502.03044.pdf)]
 
 ### Learning Deep Features for Discriminative Localization
-* Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba
+* Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, CVPR, 2016
 * [[code](https://github.com/jazzsaxmafia/Weakly_detector)]
 * [[paper](http://arxiv.org/pdf/1512.04150v1.pdf)]
 
@@ -26,16 +26,16 @@
 * [[paper](http://www-personal.umich.edu/~reedscot/nips2015.pdf)]
 
 ### Deep Convolutional Generative Adversarial Networks 
-* Alec Radford, Luke Metz, Soumith Chintala
+* Alec Radford, Luke Metz, Soumith Chintala, arxiv, 2015
 * [[code](https://github.com/carpedm20/DCGAN-tensorflow)]
 * [[paper](http://arxiv.org/pdf/1511.06434v2.pdf)]
 
 ### End-To-End Memory Networks
-* Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
+* Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, NIPS, 2015
 * [[code](https://github.com/carpedm20/MemN2N-tensorflow)]
 * [[paper](http://arxiv.org/pdf/1503.08895v4.pdf)]
 
 ### Character-Aware Neural Language Models
-* Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush
+* Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, AAAI, 2016
 * [[code](https://github.com/carpedm20/lstm-char-cnn-tensorflow)]
 * [[paper](http://arxiv.org/pdf/1508.06615v4.pdf)]
