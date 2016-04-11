@@ -39,3 +39,8 @@
 * Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, AAAI, 2016
 * [[code](https://github.com/carpedm20/lstm-char-cnn-tensorflow)]
 * [[paper](http://arxiv.org/pdf/1508.06615v4.pdf)]
+
+### Deep Reinforcement Learning
+* Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller, NIPS, 2013
+* [[code](https://github.com/nivwusquorum/tensorflow-deepq)]
+* [[paper](http://arxiv.org/abs/1312.5602)]
