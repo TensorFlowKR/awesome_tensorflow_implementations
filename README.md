@@ -57,3 +57,4 @@
  *  A Rasmus, H Valpola, M Honkala, M Berglund, and T Raiko, NIPS, 2015
  * [[code](https://github.com/rinuboney/ladder)]
  * [[paper](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks.pdf)]
+ * [[Additional Material](http://rinuboney.github.io/2016/01/19/ladder-network.html)]
