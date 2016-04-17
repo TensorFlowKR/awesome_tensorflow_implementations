@@ -53,4 +53,7 @@
 * [[code](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)]
 * [[report](http://cs229.stanford.edu/proj2015/362_report.pdf)]
 
-
+### Semi-Supervised Learning with Ladder Network 
+ *  A Rasmus, H Valpola, M Honkala, M Berglund, and T Raiko, NIPS, 2015
+ * [[code](https://github.com/rinuboney/ladder)]
+ * [[paper](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks.pdf)]
