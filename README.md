@@ -44,3 +44,10 @@
 * Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller, NIPS, 2013
 * [[code](https://github.com/nivwusquorum/tensorflow-deepq)]
 * [[paper](http://arxiv.org/abs/1312.5602)]
+
+### Using Deep Q-Network to Learn How To Play Flappy Bird
+* Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller, NIPS, 2013
+* [[code](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)]
+* [[report](http://cs229.stanford.edu/proj2015/362_report.pdf)]
+
+
