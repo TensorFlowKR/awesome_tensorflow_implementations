@@ -8,6 +8,11 @@
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
 * [[paper](http://arxiv.org/pdf/1505.00487v3.pdf)]
 
+### Sequence to Sequence -- chatbot
+* Oriol Vinyals, Quoc V. Le, arxiv, 2015
+* [[code](https://github.com/nicolas-ivanov/tf_seq2seq_chatbot)]
+* [[paper](http://arxiv.org/pdf/1506.05869v1.pdf)]
+
 ### Show and Tell: A Neural Image Caption Generator
 * Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/show_and_tell.tensorflow)]
