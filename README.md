@@ -64,5 +64,11 @@
  * [[paper](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks.pdf)]
  * [[Additional Material](http://rinuboney.github.io/2016/01/19/ladder-network.html)]
 
+#### Convolutional Neural Networks for Sentence Classification
+ * Yoon Kim, EMNLP, 2014
+ * [[code](https://github.com/dennybritz/cnn-text-classification-tf)]
+ * [[paper](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
+ * [[Additional Material](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)]
+
 ## Contribution
 Did you find new TensorFlow implementations? Pull requests are always welcome.
