@@ -33,7 +33,7 @@
 * [[code](https://github.com/carpedm20/visual-analogy-tensorflow)]
 * [[paper](http://www-personal.umich.edu/~reedscot/nips2015.pdf)]
 
-#### Deep Convolutional Generative Adversarial Networks 
+#### Deep Convolutional Generative Adversarial Networks
 * Alec Radford, Luke Metz, Soumith Chintala, arxiv, 2015
 * [[code](https://github.com/carpedm20/DCGAN-tensorflow)]
 * [[paper](http://arxiv.org/pdf/1511.06434v2.pdf)]
@@ -58,11 +58,12 @@
 * [[code](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)]
 * [[report](http://cs229.stanford.edu/proj2015/362_report.pdf)]
 
-#### Semi-Supervised Learning with Ladder Network 
+#### Semi-Supervised Learning with Ladder Network
  *  A Rasmus, H Valpola, M Honkala, M Berglund, and T Raiko, NIPS, 2015
  * [[code](https://github.com/rinuboney/ladder)]
  * [[paper](https://papers.nips.cc/paper/5947-semi-supervised-learning-with-ladder-networks.pdf)]
  * [[Additional Material](http://rinuboney.github.io/2016/01/19/ladder-network.html)]
+
 
 #### Convolutional Neural Networks for Sentence Classification
  * Yoon Kim, EMNLP, 2014
@@ -70,5 +71,11 @@
  * [[paper](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
  * [[Additional Material](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)]
 
+### Deep Residual Learning for Image Recognition
+ * K He, X Zhang, S Ren, J Sun
+ * [[code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)] for cifar10
+ * [[paper1](http://arxiv.org/abs/1512.03385)], [[paper2](http://arxiv.org/abs/1603.05027)]
+
 ## Contribution
 Did you find new TensorFlow implementations? Pull requests are always welcome.
+
