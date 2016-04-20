@@ -1,4 +1,4 @@
-# Tensorflow implementations
+# Awesome Tensorflow Implementations
 
 #### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
