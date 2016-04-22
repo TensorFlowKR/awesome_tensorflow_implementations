@@ -76,6 +76,13 @@
  * [[code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)] for cifar10
  * [[paper1](http://arxiv.org/abs/1512.03385)], [[paper2](http://arxiv.org/abs/1603.05027)]
 
+### colornet - Neural Network to colorize grayscale images
+ * pavelgonchar
+ * [[github page](https://github.com/pavelgonchar/colornet)]
+ * [[paper1 - Hypercolumns for Object Segmentation and Fine-grained Localization](http://arxiv.org/pdf/1411.5752v2.pdf)]
+ * [[paper2 - VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](http://arxiv.org/pdf/1409.1556.pdf)]
+ * [[explanation](http://tinyclouds.org/colorize/)]
+
 ## Contribution
 Did you find new TensorFlow implementations? Pull requests are always welcome.
 
