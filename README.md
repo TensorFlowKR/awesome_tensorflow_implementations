@@ -85,8 +85,8 @@
 
 ### A Neural Algorithm of Artistic Style
  * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
- * [[code](https://github.com/anishathalye/neural-style)]
- * [[blog](http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/)]
+ * [[code - Neural style in TensorFlow!](https://github.com/anishathalye/neural-style)]
+ * [[blog - http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/](http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/)]
  * [[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)]
 
 ## Contribution
