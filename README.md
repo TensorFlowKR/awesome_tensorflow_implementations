@@ -83,6 +83,12 @@
  * [[paper2 - VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](http://arxiv.org/pdf/1409.1556.pdf)]
  * [[explanation](http://tinyclouds.org/colorize/)]
 
+### A Neural Algorithm of Artistic Style
+ * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
+ * [[code](https://github.com/anishathalye/neural-style)]
+ * [[blog](http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/)]
+ * [[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)]
+
 ## Contribution
 Did you find new TensorFlow implementations? Pull requests are always welcome.
 
